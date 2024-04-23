@@ -1,6 +1,6 @@
 # Reflection Journal
 
-##### This program gets the time from the OS/motherboard and converts it to a 12 and 24-hour clock in the format HH : MM : SS.  
+This program gets the time from the OS/motherboard and converts it to a 12 and 24-hour clock in the format HH : MM : SS.  
 Additionally, the user can then add time in hours, minutes, or seconds and both clocks will update.
 The user can modify the time until they choose to exit the program using the menu.
 
